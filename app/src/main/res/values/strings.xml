@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">05demo</string>
+    <string name="direct_primary_care">Direct\nPrimary Care</string>
+    <string name="first_stop_health_visits_are_0_for_those_enrolled_in_either_medical_plan">First Stop Health visits are $0 for those\n enrolled in either Medical plan</string>
+    <string name="feel_better_now_24_7_access_to_a_u_s_licensed_provider_is_only_a_call_or_click_away_for_minor_visits_this_service_can_save_you_costly_trips_to_the_doctor_urgent_care_or_emergency_room_please_note_that_virtual_primary_care_through_first_stop_health_is_not_available_to_those_18_years_of_age_or_younger">Feel better now! 24/7 access to a U.S. licensed provider is only a call or click away. For minor\nvisits\t, this service can save you costly trips to\nthe doctor, urgent care or emergency room. Please note that Virtual Primary Care through First Stop Health is not available to those 18 \nyears of age or younger.</string>
+    <string name="_access_to_a_doctor_online">24/7 Access to a doctor online</string>
+    <string name="allergies">Allergies</string>
+    <string name="medicitaion">Medication Questions</string>
+    <string name="body">Body Injury/Muscle/Joint Pain</string>
+    <string name="cold">Cold Sore</string>
+    <string name="cough">Cough</string>
+    <string name="available_services">Available Services</string>
+    <string name="call">call</string>
+</resources>
